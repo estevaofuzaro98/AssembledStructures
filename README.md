@@ -23,7 +23,7 @@ I kindly ask users to cite the following reference in any publications reporting
 
 ```
 @misc{AssembledStructures,
-   author.      = {Estevão Fuzaro de Almeida and Lucas Veronez Goulart Ferreira and Estênio Fuzaro de Almeida and João Pedro Fernandes Salvador},
+   author.      = {Estevão Fuzaro de Almeida},
    title        = {Vibrations of Assembled Structures - A general analysis using MATLAB},
    year         = {2022},
    howpublished = {https://github.com/estevaofuzaro98/AssembledStructures},

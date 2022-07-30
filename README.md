@@ -1,4 +1,4 @@
-![[LogoAs.png]]
+![LogoAs.png]
 
 Final work developed for the course Vibrations of Assembled Structures of the Graduate Program in Mechanical Engineering at the Faculty of Engineering of Ilha Solteira (FEIS/UNESP).
 

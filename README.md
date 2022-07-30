@@ -18,7 +18,7 @@ Simulations done with this repository are fully reproducible, considering that y
 # Author
 - Estevão Fuzaro de Almeida
 
-# Citing inSANE_HAPEX
+# Citing the repository
 I kindly ask users to cite the following reference in any publications reporting work done with this repository:
 
 ```
